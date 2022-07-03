@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gowthamrajp (Manual Tester)
-- 👀 I’m interested in Automation Testing...
-- 🌱 I’m currently learning Java...
+- 👋 Hi, I’m @Gowthamrajp 
+- 👀 Patterns and Technologies Thrills me
+- 🌱 DSA+MERN stack
 - 📫 How to reach me ...+91-9952074769
 
 <!---
