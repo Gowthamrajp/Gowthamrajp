@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Gowthamrajp 
-- 👀 Patterns and Technologies Thrills me
-- 🌱 DSA+MERN stack
 - 📫 How to reach me ...+91-9952074769
 
 <!---
